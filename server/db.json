@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "آیفون 14 پرومکث",
+      "image": "https://kavatech.co/wp-content/uploads/2022/10/Apple-iPhone-14-Pro-iPhone-14-Pro-Max.jpg",
+      "memory": "6Gb",
+      "hard": "256Gb",
+      "camera": "48Mb",
+      "colors": ["#dc2626", "#4c1d95", "#9d174d"],
+      "price": 58000000
+    },
+    {
+      "id": 2,
+      "name": "اس 23 الترا",
+      "image": "https://googlekala.com/wp-content/uploads/2023/02/%DA%AF%D9%88%D8%B4%DB%8C-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%DA%AF-Samsung-Galaxy-S23-Ultra-5G-25612-%D9%81%D8%B1%D9%88%D8%B4%DA%AF%D8%A7%D9%87-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA%DB%8C-%DA%AF%D9%88%DA%AF%D9%84-%DA%A9%D8%A7%D9%84%D8%A7-%D8%B1%D9%86%DA%AF-%DA%A9%D8%B1%D9%85%DB%8C-1.jpg",
+      "memory": "12Gb",
+      "hard": "1Tr",
+      "camera": "48Mb",
+      "colors": ["#dc2626"],
+      "price": 70000000
+    },
+    {
+      "id": 3,
+      "name": "آیفون 14 پرومکث",
+      "image": "https://kavatech.co/wp-content/uploads/2022/10/Apple-iPhone-14-Pro-iPhone-14-Pro-Max.jpg",
+      "memory": "6Gb",
+      "hard": "512Gb",
+      "camera": "48mb",
+      "colors": ["#4c1d95"],
+      "price": 60000000
+    },
+    {
+      "id": 4,
+      "name": "آیفون 7",
+      "image": "https://cdn01.zoomit.ir/2022/8/apple-iphone-7-back-front.jpg",
+      "memory": "4Gb",
+      "hard": "32Gb",
+      "camera": "12mb",
+      "colors": ["#4c1d95", "#1d4ed8"],
+      "price": 10000000
+    },
+    {
+      "id": 5,
+      "name": "نوکیا 220",
+      "image": "https://mashadkala.com/images/thumbs/0071538_nokia-220-4g-16mb-24mb-dual-sim-mobile-phone.jpeg",
+      "memory": "1Gb",
+      "hard": "2Gb",
+      "camera": "ندارد",
+      "colors": ["#020617"],
+      "price": 1000000
+    }
+  ]
+}
